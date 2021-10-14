@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+![image](https://user-images.githubusercontent.com/80171172/137382711-05c13f84-7f50-4344-b477-ed2ff29c2e65.png)
+
+
+
+# Sistema de Finanças
+
+Sistema de finanças pessoais, construído com ReactJS e Typescript.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
